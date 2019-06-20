@@ -1,0 +1,4 @@
+baseURL = "https://rickfarmiloe.com/"
+languageCode = "en-us"
+title = "Rick Farmiloe"
+theme = "hugograyscale"

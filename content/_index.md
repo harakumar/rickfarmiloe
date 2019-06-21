@@ -21,9 +21,9 @@ socialhandles:
 #    googplus: "goog_addr_here"
 
 menu:
-    -
-        url: "http://startbootstrap.com/template-overviews/grayscale/"
-        name: "Original"
+	main:
+    - name: "Original"
+      url: "http://startbootstrap.com/template-overviews/grayscale/"      
 
 intro:
     header: "Grayscale"

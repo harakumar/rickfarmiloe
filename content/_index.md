@@ -10,19 +10,14 @@
 # 
 # The background images are selected by filename - the intro section image must be named "intro-bg.jpg" and placed in the "static/img/" directory for your site.  Similarly, the downloads section image must be named "downloads-bg.jpg" and placed in the "static/img/" directory for your site.  See the default images in the theme's static directory for file size reference.
 
-title: "Hugo Grayscale Theme"
-date: 2018-09-09T00:00:00-00:00
-copyright: "Your Website"
-#mapsapikey: xxx
-
-socialhandles:
-    twitter: "stream_running"
-    github: "runningstream"
-#    googplus: "goog_addr_here"    
+title: "Rick Farmiloe 25+ Years of Animation Experience"
+date: 2019-06-21T00:00:00-00:00
+copyright: "Rick Farmiloe"
+#mapsapikey: xxx 
 
 intro:
-    header: "Grayscale"
-    text: "A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap."
+    header: "Rick Farmiloe"
+    text: "25+ Years of Animation Experience"
 
 about:
     header: "About Grayscale"
@@ -34,6 +29,7 @@ download:
     text: '<p>You can download Grayscale for free from the Github page.</p><a href="https://github.com/runningstream/hugograyscale/" class="btn btn-default btn-lg">Visit Download Page</a>'
 
 contact:
-    header: "Contact Start Bootstrap"
-    text: '<p>Feel free to leave us a comment on the <a href="https://github.com/runningstream/hugograyscale/">Grayscale template Github page</a> to give some feedback about this theme!</p>'
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeKNc7spH3vipjQApSqN_Ujux2c5yFSjME13NH8up8bDWTUZg/viewform?embedded=true" width="640" height="791" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    #header: "Contact Start Bootstrap"
+    #text: '<p>Feel free to leave us a comment on the <a href="https://github.com/runningstream/hugograyscale/">Grayscale template Github page</a> to give some feedback about this theme!</p>'
 ---

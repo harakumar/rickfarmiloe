@@ -1,14 +1,12 @@
 baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
-#googleAnalytics = ""
+title = "Hugo Grayscale Theme"
+[[menu.main]]
+identifier = "Original"
+name = "Original"
+url = "http://startbootstrap.com/template-overviews/grayscale/"
+weight = 1
 [params]
-    # Provide some metadata for search and indexing services
-    description = "A port of the Grayscale theme to Hugo"
-    author = "RunningStream"
-[menu]
-    [[menu.main]]
-      identifier = "Original"
-	  name = "Original Source"
-	  url = "http://startbootstrap.com/template-overviews/grayscale/"  
+author = "RunningStream"
+description = "A port of the Grayscale theme to Hugo"

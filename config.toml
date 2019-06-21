@@ -7,3 +7,8 @@ theme = "hugograyscale"
     # Provide some metadata for search and indexing services
     description = "A port of the Grayscale theme to Hugo"
     author = "RunningStream"
+[menu]
+    [[menu.main]]
+      identifier = "Original"
+	  name = "Original Source"
+	  url = "http://startbootstrap.com/template-overviews/grayscale/"  

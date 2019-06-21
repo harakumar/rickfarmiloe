@@ -18,12 +18,7 @@ copyright: "Your Website"
 socialhandles:
     twitter: "stream_running"
     github: "runningstream"
-#    googplus: "goog_addr_here"
-
-menu:
-    main:
-    - name: "Original"
-      url: "http://startbootstrap.com/template-overviews/grayscale/"      
+#    googplus: "goog_addr_here"    
 
 intro:
     header: "Grayscale"
